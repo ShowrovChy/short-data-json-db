@@ -1,0 +1,44 @@
+[
+   
+    {
+      "id": 101,
+      "name": "HTML",
+      "inventor": "Tim Berners-Lee",
+      "learnBtn":"Learn HTML",
+      "reference":"HTML Reference",
+      "shortIntro":"The language for building web pages",
+      "img": "https://i.ibb.co/rHjxjXb/html.png",
+      "description": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. ... HTML elements are the building blocks of HTML pages."
+    },
+    {
+      "id": 102,
+      "name": "CSS",
+      "inventor": "Håkon Wium Lie ",
+      "learnBtn":"Learn CSS",
+      "reference":"CSS Reference",
+      "shortIntro":"The language for styling web pages",
+      "img": "https://i.ibb.co/1s1H6qh/css.png",
+      "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML."
+    },
+    {
+      "id": 103,
+      "name": "JavaScript",
+      "inventor": "Brendan Eich",
+      "learnBtn":"Learn JavaScript",
+      "reference":"JavaScript Reference",
+      "shortIntro":"The language for programming web pages",
+      "img": "https://i.ibb.co/dL7YqgQ/js.png",
+      "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.."
+    },
+    {
+      "id": 104,
+      "name": "React",
+      "inventor": "Jordan Walke",
+      "learnBtn":"Learn React",
+      "reference":"React Reference",
+      "shortIntro":" A JS library for building user interfaces.",
+      "img": "https://i.ibb.co/BZLZdd5/react.png",
+      "description": "React is a JavaScript library for building user interfaces.React is used to build single-page applications. React allows us to create reusable UI components."
+    }
+    
+  ]
